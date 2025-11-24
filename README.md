@@ -1,7 +1,7 @@
 # **TEHNOLOGII WEB**
 
 ## **TEMA PROIECTULUI:**
-### 
+### Monitorizarea apariţiei unei firme pe Twitter (integrat cu Twitter API)
 
 
 ---
