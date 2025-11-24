@@ -1,0 +1,12 @@
+{
+  "name": "proiectweb_id_2025-2026",
+  "version": "1.0.0",
+  "description": "---\r * Student: Avram Diana-Andrada\r * Anul 3\r * Grupa 1160\r * ID\r ---\r ## Descriere Proiect",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
